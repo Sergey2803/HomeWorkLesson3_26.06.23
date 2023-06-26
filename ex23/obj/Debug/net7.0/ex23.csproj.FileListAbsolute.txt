@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/bin/Debug/net7.0/ex23
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/bin/Debug/net7.0/ex23.deps.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/bin/Debug/net7.0/ex23.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/bin/Debug/net7.0/ex23.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/bin/Debug/net7.0/ex23.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/refint/ex23.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ex23.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex23/obj/Debug/net7.0/ref/ex23.dll

@@ -1,0 +1,30 @@
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/bin/Debug/net7.0/ex20
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/bin/Debug/net7.0/ex20.deps.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/bin/Debug/net7.0/ex20.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/bin/Debug/net7.0/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/bin/Debug/net7.0/ex20.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/refint/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ex20.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20/obj/Debug/net7.0/ref/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/bin/Debug/net7.0/ex20
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/bin/Debug/net7.0/ex20.deps.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/bin/Debug/net7.0/ex20.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/bin/Debug/net7.0/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/bin/Debug/net7.0/ex20.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/refint/ex20.dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ex20.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex20 (method)/obj/Debug/net7.0/ref/ex20.dll

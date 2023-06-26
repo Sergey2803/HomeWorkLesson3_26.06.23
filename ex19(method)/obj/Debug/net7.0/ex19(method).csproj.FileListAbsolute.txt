@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/bin/Debug/net7.0/ex19(method)
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/bin/Debug/net7.0/ex19(method).deps.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/bin/Debug/net7.0/ex19(method).runtimeconfig.json
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/bin/Debug/net7.0/ex19(method).dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/bin/Debug/net7.0/ex19(method).pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/refint/ex19(method).dll
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).pdb
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ex19(method).genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/3.2. Практическое занятие. Урок 3/ex19(method)/obj/Debug/net7.0/ref/ex19(method).dll
